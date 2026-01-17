@@ -11,7 +11,7 @@ maps to real-world attack readiness.
 
 ---
 
-## 🚨 Why SPECTER™
+##  Why SPECTER™
 
 Modern breaches rarely start with malware.
 They start with **quiet reconnaissance**:
@@ -24,7 +24,7 @@ SPECTER™ detects and contextualizes this **pre-attack phase**.
 
 ---
 
-## 🔐 Core Capabilities (Community Edition)
+##  Core Capabilities (Community Edition)
 
 - Asset exposure mapping (domains, emails, cloud, vendors)
 - Passive OSINT exposure indexing
@@ -35,7 +35,7 @@ SPECTER™ detects and contextualizes this **pre-attack phase**.
 
 ---
 
-## 🧩 Architecture Highlights
+##  Architecture Highlights
 
 - Python 3.11+
 - Modular & extensible design
@@ -45,39 +45,39 @@ SPECTER™ detects and contextualizes this **pre-attack phase**.
 
 ---
 
-## 📦 Editions
+##  Editions
 
-### 🟢 Community Edition (This Repository)
+###  Community Edition (This Repository)
 - Core exposure analysis
 - Risk scoring
 - Local reporting
 - Open architecture
 
-### 🔵 Professional Edition (Commercial)
+###  Professional Edition (Commercial)
 - Advanced recon correlation
 - Canary OSINT artifacts
 - Vendor & supply-chain monitoring
 - Detection logic tuning
 
-### 🔴 Enterprise Edition
+###  Enterprise Edition
 - SIEM integrations
 - Automation & scheduling
 - Threat actor correlation
 - Custom modules & consulting
 
-📧 **Commercial licensing & enterprise access:**  
+ **Commercial licensing & enterprise access:**  
 security@cyberdudebivash.com
 
 ---
 
-## ⚠️ Intended Use
+##  Intended Use
 
 This tool is designed **exclusively for defensive cybersecurity purposes**.
 It must not be used for unauthorized reconnaissance or malicious activity.
 
 ---
 
-## 🏢 About CyberDudeBivash
+##  About CyberDudeBivash
 
 CyberDudeBivash is an independent cybersecurity research and defense engineering
 ecosystem focused on:
@@ -86,9 +86,16 @@ ecosystem focused on:
 - Cloud & supply-chain security
 - Detection engineering
 
-🌐 https://www.cyberdudebivash.com
+ https://www.cyberdudebivash.com
+
+ 
+© 2026 CyberDudeBivash Pvt. Ltd. | Global Cybersecurity Authority  
+Visit https://www.cyberdudebivash.com for tools, reports & services
+Explore our blogs https://cyberbivash.blogspot.com  https://cyberdudebivash-news.blogspot.com 
+ & https://cryptobivash.code.blog to know more in Cybersecurity , AI & other Tech Stuffs.
 
 ---
 
 © 2026 CyberDudeBivash Pvt. Ltd.  
 All Rights Reserved.
+
