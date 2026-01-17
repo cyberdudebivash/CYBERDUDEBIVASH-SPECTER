@@ -66,7 +66,7 @@ SPECTER™ detects and contextualizes this **pre-attack phase**.
 - Custom modules & consulting
 
  **Commercial licensing & enterprise access:**  
-security@cyberdudebivash.com
+iambivash@cyberdudebivash.com
 
 ---
 
@@ -98,4 +98,5 @@ Explore our blogs https://cyberbivash.blogspot.com  https://cyberdudebivash-news
 
 © 2026 CyberDudeBivash Pvt. Ltd.  
 All Rights Reserved.
+
 
