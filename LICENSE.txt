@@ -1,0 +1,20 @@
+CYBERDUDEBIVASH COMMERCIAL LICENSE
+
+Copyright (c) 2026 CyberDudeBivash Pvt. Ltd.
+All Rights Reserved.
+
+This software is proprietary and protected by copyright law.
+
+Permission is granted to use the Community Edition of this software
+for evaluation, research, and defensive security purposes only.
+
+The following are strictly prohibited without written permission:
+- Commercial resale or redistribution
+- Reverse engineering
+- Modification for resale
+- Integration into paid services
+- Removal of copyright or branding
+
+Enterprise and Professional licenses are available.
+
+Contact: security@cyberdudebivash.com

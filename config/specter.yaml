@@ -1,0 +1,6 @@
+organization: CyberDudeBivash Pvt. Ltd.
+mode: passive
+output: json
+logging: enabled
+supply_chain_monitoring: true
+canary_assets: true

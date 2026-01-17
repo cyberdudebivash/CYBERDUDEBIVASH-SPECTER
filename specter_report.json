@@ -1,0 +1,26 @@
+{
+  "tool": "CyberDudeBivash SPECTER\u2122",
+  "mode": "SAFE_PASSIVE_RECON",
+  "generated_at": "2026-01-17T15:21:39.450868Z",
+  "risk_score": 25,
+  "findings": [
+    {
+      "asset": "cyberdudebivash.com",
+      "exposure": "DNS_RESOLUTION",
+      "risk": "LOW",
+      "details": "Domain resolves to IP 54.76.177.85"
+    },
+    {
+      "asset": "cyberdudebivash.com",
+      "exposure": "CERT_TRANSPARENCY",
+      "risk": "MEDIUM",
+      "details": "Certificates publicly exposed via CT logs"
+    },
+    {
+      "asset": "cyberdudebivash.com",
+      "exposure": "HTTP_HEADERS",
+      "risk": "LOW",
+      "details": "Server header: Caddy"
+    }
+  ]
+}

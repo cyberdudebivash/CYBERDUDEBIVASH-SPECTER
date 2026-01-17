@@ -1,0 +1,9 @@
+NOTICE
+
+This product is intended strictly for defensive cybersecurity,
+risk assessment, and threat intelligence purposes.
+
+CyberDudeBivash does not endorse or support illegal reconnaissance,
+privacy violations, or malicious activity.
+
+Users are responsible for ensuring lawful and ethical use.

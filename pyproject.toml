@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=68.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "cyberdudebivash-specter"
+version = "1.0.0"
+description = "Ghost Reconnaissance Exposure & Counter-Intelligence Platform"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+
+authors = [
+  { name = "CyberDudeBivash Pvt. Ltd.", email = "security@cyberdudebivash.com" }
+]
+
+keywords = [
+  "cybersecurity",
+  "threat-intelligence",
+  "osint",
+  "reconnaissance",
+  "blue-team",
+  "soc",
+  "cloud-security",
+  "supply-chain",
+  "defensive-security"
+]
+
+classifiers = [
+  "Development Status :: 4 - Beta",
+  "Intended Audience :: Information Technology",
+  "Intended Audience :: System Administrators",
+  "Intended Audience :: Security Engineers",
+  "Topic :: Security",
+  "Topic :: System :: Monitoring",
+  "License :: Other/Proprietary License",
+  "Programming Language :: Python :: 3",
+  "Programming Language :: Python :: 3.11",
+  "Operating System :: OS Independent"
+]
+
+[project.urls]
+Homepage = "https://www.cyberdudebivash.com"
+Repository = "https://github.com/cyberdudebivash/CYBERDUDEBIVASH-SPECTER"
+Documentation = "https://www.cyberdudebivash.com"
+Issues = "https://github.com/cyberdudebivash/CYBERDUDEBIVASH-SPECTER/issues"
+
+[project.scripts]
+specter = "specter:main"
+
+[tool.setuptools]
+packages = ["specter"]
+
+[tool.setuptools.package-data]
+specter = ["config/*.yaml"]

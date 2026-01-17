@@ -1,0 +1,18 @@
+# Core runtime
+pyyaml>=6.0
+requests>=2.31.0
+
+# Async & performance (future-safe)
+aiohttp>=3.9.0
+
+# Security & parsing
+dnspython>=2.6.0
+
+# Reporting & formatting
+rich>=13.7.0
+
+# Optional (commented – enable for Pro/Enterprise)
+# fastapi>=0.110.0
+# uvicorn>=0.29.0
+# networkx>=3.2.1
+# python-dateutil>=2.9.0
